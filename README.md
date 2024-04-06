@@ -28,7 +28,7 @@ Butterfly Game is a simple Java game developed using Swing for the graphical use
 ## How to Play
 
 1. Launch the game by running the `Main.java` file.
-2. Use the keyboard arrow keys to control the butterfly character.
+2. Use the keyboard space bar to control the butterfly character.
 3. Navigate the butterfly through the gaps between the moving pipes.
 4. Earn points for every successful passage through the gaps.
 5. Avoid collisions with the pipes or the game ends.
